@@ -10,5 +10,6 @@ namespace Project.BL.Models
     {
         public string Name { get; set; }
         public int Number { get; set; }
+        public int Weight { get; set; }
     }
 }
